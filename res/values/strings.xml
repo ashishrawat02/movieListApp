@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Movies Book</string>
+    <string name="no_contacts">No movies</string>
+    <string name="menuitem_add">Add</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="button_save_movies">Save Movie</string>
+    
+    <string name="hint_title">title (Required)</string>
+    <string name="hint_director">director</string>
+    <string name="hint_writer">writer</string>
+    <string name="hint_stars">stars</string>
+    <string name="hint_year">year</string>
+    <string name="hint_raiting">raiting</string>
+    <string name="hint_duration">duration</string>
+    
+    
+    <string name="label_title">title:</string>
+    <string name="label_director">director:</string>
+    <string name="label_writer">writer:</string>
+    <string name="label_stars">stars:</string>
+    <string name="label_year">year:</string>
+    <string name="label_raiting">raiting:</string>
+    <string name="label_duration">duration:</string>
+    
+    
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the Movie</string>
+    <string name="ok">OK</string>
+    <string name="error_message">You must enter a movie name</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+
+</resources>
